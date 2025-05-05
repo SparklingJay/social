@@ -1,4 +1,5 @@
 import os
+import time
 from dotenv import load_dotenv
 import groq
 import fitz  # PyMuPDF
@@ -30,21 +31,11 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 def split_text(text, max_chunk_size=12000):
-    """Découpe le texte pour éviter de dépasser la limite de tokens."""
-    paragraphs = text.split("\n\n")
+    """Découpe le texte en morceaux plus petits pour rester sous les limites de tokens."""
     chunks = []
-    current_chunk = ""
-
-    for para in paragraphs:
-        if len(current_chunk) + len(para) < max_chunk_size:
-            current_chunk += para + "\n\n"
-        else:
-            chunks.append(current_chunk.strip())
-            current_chunk = para + "\n\n"
-
-    if current_chunk.strip():
-        chunks.append(current_chunk.strip())
-
+    for i in range(0, len(text), max_chunk_size):
+        chunk = text[i:i+max_chunk_size]
+        chunks.append(chunk)
     return chunks
 
 def detect_themes(client, model_name, text_chunk):
@@ -86,9 +77,14 @@ def process_single_pdf(pdf_path, client, model_name, output_directory):
 
     for idx, chunk in enumerate(chunks):
         print(f"🔎 Analyse du morceau {idx + 1}/{len(chunks)} pour {os.path.basename(pdf_path)}...")
-        themes_text = detect_themes(client, model_name, chunk)
-        themes_list = parse_themes(themes_text)
-        all_themes.extend(themes_list)
+        try:
+            themes_text = detect_themes(client, model_name, chunk)
+            themes_list = parse_themes(themes_text)
+            all_themes.extend(themes_list)
+        except Exception as e:
+            print(f"⚠️ Erreur sur le chunk {idx + 1} : {e}")
+        
+        time.sleep(5)  # Pause pour éviter de dépasser la limite TPM
 
     # Sauvegarder les thèmes de ce fichier PDF
     file_name = os.path.splitext(os.path.basename(pdf_path))[0]
@@ -115,14 +111,17 @@ def process_all_pdfs(data_directory, output_directory):
             except Exception as e:
                 print(f"❌ Erreur avec {filename}: {str(e)}")
 
-    # Résumer les thèmes globaux
+
+    # Résumer les 10 thèmes globaux les plus fréquents
     theme_counter = Counter(global_themes)
-    sorted_themes = theme_counter.most_common()
+    top_10_themes = theme_counter.most_common(10)
 
     global_output_path = os.path.join(output_directory, "themes_globaux.txt")
     with open(global_output_path, "w", encoding="utf-8") as f:
-        for theme, count in sorted_themes:
-            f.write(f"{theme}: {count}\n")
+        f.write("Top 10 des thématiques les plus fréquentes :\n\n")
+        for idx, (theme, count) in enumerate(top_10_themes, 1):
+            f.write(f"{idx}. {theme} : {count} occurrences\n")
+
 
     print(f"\n🌍 Fichier global des thématiques enregistré : {global_output_path}")
 
@@ -130,10 +129,10 @@ def process_all_pdfs(data_directory, output_directory):
 
 def main():
     data_directory = "./data"
-    output_directory = "./output"
+    output_directory = "./output_3"
 
     os.makedirs(output_directory, exist_ok=True)
     process_all_pdfs(data_directory, output_directory)
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
