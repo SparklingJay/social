@@ -30,7 +30,7 @@ def extract_text_from_pdf(pdf_path):
         raise Exception(f"Le fichier {pdf_path} est vide ou illisible.")
     return text
 
-def split_text(text, max_chunk_size=12000):
+def split_text(text, max_chunk_size=20000):
     """Découpe le texte en morceaux plus petits pour rester sous les limites de tokens."""
     chunks = []
     for i in range(0, len(text), max_chunk_size):

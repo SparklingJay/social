@@ -1,0 +1,970 @@
+l'usage des technologies de l'information et de la communication (tic) dans le contexte universitaire
+la perception et l'utilisation de l'intelligence artificielle (ia)
+l'impact des tic sur les pratiques estudiantines
+la relation entre la technologie et l'apprentissage
+les attitudes et les perceptions face à la technologie
+impact des technologies sur les pratiques estudiantines
+changement dans les habitudes de travail
+fiabilité et confiance dans les outils numériques
+dépendance aux outils numériques
+légitimité de l'utilisation des outils numériques dans le cadre académique
+perception par les enseignants et intégration dans les pratiques pédagogiques
+avantage compétitif et équité
+l'utilisation des outils numériques dans le contexte académique
+les enjeux éthiques liés à l'utilisation de l'intelligence artificielle
+l'impact de chatgpt sur les méthodes d'apprentissage
+la légitimité de l'utilisation de chatgpt dans différents contextes académiques
+la relation entre l'étudiant et la technologie
+les stratégies d'apprentissage et d'organisation
+l'utilisation de chatgpt dans les pratiques d'apprentissage
+la perception de chatgpt et son évolution
+l'impact de chatgpt sur les pratiques d'apprentissage
+les risques et les défis associés à l'utilisation de chatgpt
+l'intégration de chatgpt dans le cadre académique
+les attitudes à l'égard de la technologie et de l'innovation
+l'usage et la perception des technologies d'intelligence artificielle (ia)
+l'impact des technologies d'ia sur le travail et l'apprentissage
+la définition et la compréhension de l'intelligence artificielle
+les représentations sociales et les perceptions des nouvelles technologies
+la spécialisation et les inégalités dans l'usage des technologies
+les enjeux sociaux et éthiques liés à l'ia
+perception de l'ia et de chatgpt
+adoption et usage de chatgpt
+réticence et attitudes à l'égard de la technologie
+spécialisation de l'ia et confiance
+relation à la technologie
+éthique et régulation de l'ia
+progrès technologique et responsabilité
+l'impact des technologies d'intelligence artificielle sur les pratiques estudiantines
+les rapports entre les étudiants et les technologies numériques
+la perception de l'utilité et des limites de chatgpt dans le contexte académique
+les stratégies d'apprentissage et de résolution de problèmes face aux défis académiques
+les considérations sur la valeur et l'accessibilité des outils technologiques pour les étudiants
+l'intégration de chatgpt dans les pratiques de rédaction et de programmation
+l'usage des technologies de l'information et de la communication (tic) dans l'apprentissage
+la relation entre les étudiants et les technologies éducatives
+l'impact de l'intelligence artificielle sur les pratiques d'apprentissage
+les stratégies d'apprentissage et la dépendance aux outils numériques
+la confiance dans les sources d'information numérique
+les approches pédagogiques et leur efficacité
+la perception de l'utilité et de la limite des outils numériques dans le contexte académique
+usage et perception des outils numériques
+impact sur les pratiques de travail et d'apprentissage
+confiance et fiabilité dans les sources d'information
+limites et frustrations face à la technologie
+intégration dans les routines et les pratiques quotidiennes
+représentations et métaphores de la technologie
+les pratiques d'information et de recherche
+la relation avec les outils numériques
+l'humanisation des outils numériques
+le rôle de chatgpt dans les pratiques d'apprentissage
+la critique et la réflexivité
+l'impact sur les interactions sociales et la dynamique de groupe
+l'usage des intelligences artificielles (ia) dans le contexte universitaire
+la perception de l'avantage ou du désavantage lié à l'utilisation de chatgpt
+la dépendance aux ia
+la légitimité de l'utilisation de chatgpt dans le contexte académique
+la relation entre l'utilisation de chatgpt et la gestion du stress/de la charge de travail
+la politique de l'institution envers l'utilisation des ia
+la nécessité de la prévention et de la formation sur l'usage responsable des ia
+éthique et utilisation des intelligences artificielles (ia)
+impact des ia sur les professions créatives
+réglementation et gouvernance des technologies émergentes
+fiabilité et limites des ia dans les tâches académiques
+conséquences environnementales des ia
+l'usage des intelligences artificielles (ia) dans le contexte académique
+la légitimité de l'usage de l'ia dans les études
+les enjeux de l'intégration de l'ia dans les pratiques académiques
+la frontière entre l'assistance légitime et la tricherie
+l'impact de l'ia sur les compétences et les objectifs de formation
+les utilisations non académiques de l'ia
+la confiance et la fiabilité dans les outils d'ia
+impact de la technologie sur les pratiques professionnelles et académiques
+dilemmes moraux et éthiques liés à l'utilisation de l'ia
+créativité vs. reproduction
+intégration de l'ia dans les cursus universitaires
+limites et avenir de l'ia
+perception de l'ia et de son impact
+régulation et sensibilisation
+vocabulaire et représentation de l'ia
+la perception et l'usage des termes techniques
+la vulgarisation et la marchandisation de la technologie
+l'importance de la précision terminologique
+l'influence des effets de mode et de la communication marketing
+la réflexivité et la conscience de la médiation technologique
+les usages et les pratiques de chatgpt chez les étudiants
+la relation entre les étudiants et la technologie
+l'impact de chatgpt sur l'apprentissage et le travail universitaire
+les limites et les frustrations liées à l'utilisation de chatgpt
+la question de l'autonomie et de la dépendance aux outils numériques
+les enjeux sociétaux liés à l'utilisation des intelligences artificielles
+l'usage de l'intelligence artificielle (ia) dans les études
+impact sur le travail et la productivité
+stress et gestion des deadlines
+compétences et dépendance
+inégalités et différences dans l'usage de l'ia
+perception de l'ia comme outil ou accompagnateur
+questions éthiques
+rôle des enseignants et adaptation aux nouvelles technologies
+thématiques sociologiques abordées
+impact de l'ia sur les pratiques d'apprentissage
+dilemme moral et éthique
+adaptation des institutions académiques
+évolution des pratiques d'apprentissage
+rôle de l'ia dans l'apprentissage
+conclusion
+perception et définition de l'intelligence artificielle et de chatgpt
+usage et intégration de chatgpt dans les études
+impact de chatgpt sur les méthodes de travail et l'organisation
+satisfaction et limites de l'utilisation de chatgpt
+compréhension et apprentissage
+stress et gestion du temps
+relation à la technologie
+perception et évaluation de chatgpt
+utilisation et intégration de chatgpt dans le travail académique
+impact de chatgpt sur les méthodes de travail et l'apprentissage
+compétences développées grâce à chatgpt, notamment le "prompt engineering"
+rôle de chatgpt comme outil d'accompagnement ou d'assistance
+éthique et légitimité de l'utilisation de chatgpt dans les travaux académiques
+réactions des enseignants à l'utilisation de chatgpt
+tensions entre gain de temps et apprentissage personnel
+dilemmes moraux liés à l'utilisation de chatgpt
+analyse de l'entretien sociologique
+impact de l'ia sur les pratiques d'apprentissage
+rôle de l'ia dans l'éducation
+régulation de l'ia dans l'éducation
+évolution de l'ia et son impact sur la société
+relation entre la technologie et l'éducation
+conclusion
+usages et pratiques des intelligences artificielles (ia)
+perception de la technologie
+impact de la technologie sur les pratiques étudiantes
+confiance et fiabilité
+génération et socialisation technologique
+rapports entre humains et machines
+l'usage des outils numériques dans le travail universitaire
+la perception de l'intelligence artificielle
+l'influence de la technologie sur les pratiques de travail
+la comparaison entre les ressources humaines et les ressources numériques
+les différences d'usage des outils numériques selon les filières et les parcours universitaires
+les limites et les frustrations liées à l'usage de l'intelligence artificielle
+usage et perception des technologies de l'information et de la communication (tic) dans le contexte éducatif
+confiance et fiabilité dans les sources d'information
+stratégies d'apprentissage et de résolution de problèmes
+interaction homme-machine et formulation des requêtes
+compétences informationnelles et numériques
+impact des outils numériques sur les pratiques d'étude et la compréhension
+rapports aux savoirs et aux pratiques académiques
+l'impact de chatgpt sur la performance académique
+les règles et les normes entourant l'utilisation de chatgpt
+les questions d'éthique
+la confiance dans les enseignants et l'utilisation de chatgpt
+les tensions entre le gain de temps et l'apprentissage personnel
+l'évolution future des pratiques d'apprentissage
+l'usage des technologies de l'information et de la communication (tic) dans le contexte universitaire
+la perception et la définition de l'intelligence artificielle (ia)
+l'intégration de l'ia dans les pratiques estudiantines
+la relation entre les étudiants et la technologie
+l'impact de l'ia sur les pratiques académiques et la production de savoir
+la sociologie de la connaissance et des pratiques numériques
+l'usage des outils numériques dans les pratiques estudiantines
+la relation entre les étudiants et la technologie
+les changements dans les pratiques d'apprentissage et de travail
+la question de la confiance et de la vérification
+les inégalités et les disparités dans l'accès aux outils numériques
+l'impact des technologies de l'information sur le travail et les études
+la relation entre l'individu et la technologie
+les changements dans les pratiques de travail et d'apprentissage
+la question de la dépendance et de l'autonomie
+les enjeux éthiques liés à l'utilisation de l'intelligence artificielle
+les pratiques d'apprentissage et de recherche
+la perception de l'intelligence artificielle et de ses limites
+l'utilisation de l'intelligence artificielle (chatgpt) dans les études et le travail académique
+la fiabilité et la qualité des résultats fournis par chatgpt
+l'impact de chatgpt sur le niveau de stress lié aux échéances académiques
+les stratégies d'interaction avec chatgpt
+l'influence de chatgpt sur la méthode de travail et l'approche des sujets
+usage et perception de l'intelligence artificielle (ia)
+impact de l'ia sur les pratiques académiques
+la question de la créativité et de l'originalité
+l'accompagnement et le soutien apportés par l'ia
+avantages et limites de l'utilisation de l'ia
+réflexion sur les implications sociales et éthiques de l'ia
+interactions sociales et échanges autour de l'ia
+utilisation de l'ia dans les études
+dépendance à l'ia
+impact sur les compétences et les pratiques
+légitimité de l'utilisation de l'ia dans les études
+perception de l'ia par les enseignants et les étudiants
+évolution des pratiques et des mentalités
+valorisation du travail personnel
+l'usage des technologies numériques dans l'éducation
+la légitimation et la responsabilisation
+les inégalités et les biais dans l'utilisation des ia
+les enjeux éthiques liés à l'utilisation des ia
+la tension entre gain de temps et apprentissage
+la question de la dépendance aux technologies
+utilisation de chatgpt et perception de son influence
+acceptabilité de l'utilisation de chatgpt
+dilemmes moraux liés à l'utilisation de chatgpt
+impact de l'ia sur les pratiques d'apprentissage et d'éducation
+rôle des institutions éducatives dans la régulation de l'ia
+inégalités sociales et accès à l'ia
+révolution ou outil ? la perception de l'ia dans l'éducation
+l'utilisation des intelligences artificielles (ia) dans l'éducation
+la formation et l'information sur les ia
+l'influence du background familial sur l'utilisation des technologies
+les disparités de genre dans l'utilisation des technologies
+la sociologie numérique et l'influence des études sur les perceptions
+représentations et perception de chatgpt et de l'intelligence artificielle
+usages de chatgpt dans le contexte universitaire
+impact de chatgpt sur les pratiques académiques et professionnelles
+attitudes des institutions universitaires envers chatgpt
+réflexion sur l'avenir de l'intelligence artificielle et son potentiel
+compréhension des mécanismes sous-jacents à chatgpt, tels que les algorithmes
+usage des technologies de l'information et de la communication (tic) dans le contexte universitaire
+impact des tic sur les pratiques d'apprentissage et de travail
+rapports entre les étudiants et les technologies numériques
+évolution des pratiques de travail et d'apprentissage
+problématiques liées à la responsabilité et à l'autonomie
+interactions entre les aspects cognitifs et les outils technologiques
+gestion du temps et organisation du travail
+l'impact des technologies sur les pratiques estudiantines
+la perception de la compétence et de la réussite académique
+les enjeux éthiques liés à l'utilisation de chatgpt
+la relation entre l'utilisation de chatgpt et le stress/anxiété
+les compétences métacognitives et l'utilisation de chatgpt
+l'accès aux technologies et les inégalités
+la définition de la "réussite" académique et professionnelle
+légitimité et éthique de l'utilisation de chatgpt
+impact sur les pratiques d'apprentissage
+transformations dans les modalités d'évaluation
+dilemmes moraux et adaptation
+intégration de chatgpt dans le cadre académique
+évolution des compétences et des pratiques professionnelles
+utilisation de chat gpt dans les études
+fiabilité et validation de l'information
+impact sur la productivité et la qualité du travail
+compétences critiques et réflexion
+contexte d'utilisation et domaines d'application
+éducation et apprentissage
+interaction homme-machine
+construction de la confiance
+formulation des questions et reformulation
+apprentissage et découverte
+langue et cognition
+rapports aux institutions éducatives
+stratégies d'apprentissage et de résolution de problèmes
+l'usage des technologies dans les pratiques estudiantines
+la relation entre la langue et l'usage de la technologie
+l'impact de chat gpt sur les pratiques d'apprentissage et le rapport au temps
+la dépendance à la technologie et son impact sur les compétences
+l'accessibilité et les disparités dans l'usage de chat gpt
+la normalisation de l'usage de chat gpt dans le milieu universitaire
+les contextes d'usage acceptable ou non de chat gpt
+la perception des différences dans l'usage de chat gpt selon les domaines d'études
+l'usage des outils numériques dans l'apprentissage
+la motivation et l'intérêt pour les cours
+la dépendance aux outils numériques
+le stress et l'anxiété liés aux études
+la modification des pratiques d'apprentissage
+la relation entre l'étudiant et la technologie
+l'impact des outils d'intelligence artificielle (ia) sur les pratiques estudiantines
+la modification des stratégies d'apprentissage et de révision
+l'influence de la disponibilité des outils d'ia sur l'engagement dans les cours
+la gestion du temps et les priorités
+les attitudes envers l'éducation traditionnelle et les alternatives
+la perception de la valeur des cours et de l'apprentissage
+impact de chat gpt sur les pratiques d'apprentissage
+utilisation et fréquence d'utilisation de chat gpt
+perception et légitimité de l'utilisation de chat gpt
+évolution future des pratiques d'apprentissage et d'enseignement
+adaptation des méthodes d'évaluation
+utilisation de chatgpt dans les études universitaires
+perception de l'intelligence artificielle
+différences entre les versions payante et gratuite de chatgpt
+fiabilité et vérification des informations fournies par chatgpt
+intégration de chatgpt dans les pratiques académiques
+attitudes envers les nouvelles technologies
+formation et utilisation des outils numériques dans les cursus universitaires
+utilisation de chatgpt dans le contexte académique
+gain de temps et productivité
+apprentissage et compréhension
+limites de chatgpt
+procrastination et changement dans les habitudes de travail
+interaction avec la technologie
+impact sur la perception de l'isolement et du soutien
+l'interaction avec les outils d'intelligence artificielle (ia)
+la perception de l'utilité et des limites de chatgpt
+l'impact de chatgpt sur les pratiques académiques et la dépendance
+la légitimité de l'utilisation de chatgpt dans le contexte académique
+l'attitude des universitaires et des enseignants envers l'utilisation de chatgpt
+les considérations éthiques et les bonnes pratiques
+l'évolution des pratiques et des mentalités à l'égard de l'ia
+l'impact de l'intelligence artificielle (ia) sur les pratiques universitaires
+la légitimité de l'utilisation de chatgpt dans les tâches académiques
+l'adaptation des pratiques éducatives à l'ère de l'ia
+l'impact de chatgpt sur la productivité et la gestion du temps
+la question de l'appropriation et de la propriété du travail
+l'évolution des compétences et des savoirs dans un contexte d'ia
+la relation entre l'humain et la machine dans le processus d'apprentissage et de production
+la perception et l'adoption de l'ia par différentes générations
+l'impact de l'intelligence artificielle (ia) sur le travail et les études
+la perception de l'ia et de son utilisation
+les changements dans les standards et les critères d'évaluation
+la question de la légitimité et de l'authenticité
+la génération et la technologie
+l'évolution des pratiques et des mentalités
+la régulation et la visibilité de l'utilisation de l'ia
+utilisation de chatgpt dans le contexte académique
+motivation et intérêt dans l'apprentissage
+rôle de chatgpt comme outil d'apprentissage
+impact de chatgpt sur les pratiques d'apprentissage et d'évaluation
+considérations éthiques liées à l'utilisation de chatgpt
+évolution future de l'utilisation de chatgpt et son impact sur l'éducation
+bénéfices de l'utilisation de chatgpt pour la qualité du travail
+l'impact de chatgpt sur le travail et l'apprentissage
+la perception de l'intelligence artificielle
+l'usage de chatgpt dans le contexte académique
+la fréquence et les modalités d'utilisation de chatgpt
+les implications de l'usage de chatgpt sur la tricherie et la supervision
+la relation entre les étudiants et la technologie
+les différences culturelles et contextuelles dans l'usage de chatgpt
+l'impact des nouvelles technologies sur l'éducation
+la frontière entre l'aide et la fraude
+les disparités dans l'encadrement et l'évaluation
+la responsabilité de l'institution éducative
+l'adaptation des étudiants aux nouvelles technologies
+le stress et la pression liés aux échéances académiques
+la fiabilité et la qualité des réponses fournies par les outils d'intelligence artificielle
+les stratégies d'utilisation et de vérification
+l'impact des technologies d'intelligence artificielle (ia) sur les pratiques académiques
+la dépendance aux outils technologiques
+l'intégrité académique et les enjeux éthiques
+la relation entre l'utilisation de la technologie et l'apprentissage
+les attitudes envers la technologie et son utilisation dans le contexte académique
+la régulation et la légitimité de l'utilisation des outils d'ia dans les travaux académiques
+le rôle des enseignants et des institutions académiques dans la régulation de l'utilisation des technologies d'ia
+dilemme moral et intégrité académique
+transformation des pratiques d'apprentissage
+impact sur le métier d'enseignant
+rapports de force entre l'humain et la technologie
+nécessité d'une analyse continue et de régulation
+l'impact des technologies de l'information et de la communication (tic) sur les pratiques d'apprentissage et de travail des étudiants
+les représentations et les perceptions de l'intelligence artificielle (ia) et de chatgpt
+l'éthique de l'utilisation de l'ia et de chatgpt
+les dynamiques sociales et les changements induits par les nouvelles technologies
+la relation entre les individus et la technologie
+les compétences métacognitives et l'auto-évaluation
+l'usage des technologies d'intelligence artificielle (ia) dans le contexte académique
+les perceptions et les attitudes envers l'ia
+la frontière entre l'aide et la triche
+les différences disciplinaires dans l'usage de l'ia
+la question de la confiance dans les outils d'ia
+l'impact de l'ia sur l'apprentissage et la créativité
+usage et perception de chatgpt
+impact de chatgpt sur les pratiques académiques
+attitudes des enseignants envers chatgpt
+influence de chatgpt sur l'apprentissage et la compréhension
+métacognition et évaluation de la fiabilité de chatgpt
+impact sur l'organisation du travail et le stress lié aux échéances académiques
+perception et stratégies d'utilisation
+différences linguistiques dans l'utilisation de chatgpt
+façon d'interagir avec chatgpt
+impact de chatgpt sur la méthode de travail et la pensée critique
+rôle d'accompagnement de chatgpt
+avantage compétitif dans le contexte académique
+dépendance à chatgpt
+légitimité de l'utilisation de chatgpt dans les travaux universitaires
+inégalités et réduction de l'écart grâce à chatgpt
+réactions des enseignants face à l'utilisation de chatgpt
+utilisation de l'ia dans le contexte académique
+éthique et propriété intellectuelle
+problèmes éthiques liés à l'utilisation de l'ia
+intégration de l'ia dans les travaux académiques
+tensions et dilemmes
+légitimité de l'utilisation de chatgpt
+dilemmes moraux
+connaissance et utilisation d'autres formes d'ia
+adoption et perception des versions payantes de chatgpt
+la maîtrise des outils numériques
+l'intégration des technologies dans l'éducation
+la régulation et la surveillance de l'utilisation des technologies
+les inégalités et l'accès aux compétences numériques
+les adaptations pédagogiques et évaluatives
+usage et perception de l'intelligence artificielle (ia) et de chat-gpt
+intégration de l'ia dans les pratiques académiques
+évolution de l'usage de l'ia au fil du temps
+diversification des outils d'ia et critères de choix
+rapport à la technologie et curiosité
+influence des études et du domaine professionnel sur la perception et l'usage de l'ia
+attentes des enseignants et transparence dans l'usage de l'ia
+l'intégration de l'intelligence artificielle (ia) dans le système éducatif
+la régulation de l'ia dans les universités
+les usages de chat-gpt dans le contexte universitaire
+la créativité et les limites de l'ia
+l'évolution des pratiques informationnelles et documentaires
+les enjeux sociaux et éthiques de l'ia
+usage et perception des intelligences artificielles (ia) dans le travail journalistique
+créativité et intelligence artificielle
+fiabilité et vérifiabilité de l'information générée par l'ia
+interaction entre l'humain et la technologie
+sociologie du travail journalistique
+représentations sociales de l'intelligence artificielle
+l'usage de l'intelligence artificielle (ia) et de chatgpt
+la créativité et l'ia
+le rapport au temps et à l'efficacité
+la subjectivité et la satisfaction
+la complémentarité entre l'humain et l'ia
+les limites de l'ia
+l'humanisation des rapports entre humains et machines
+l'impact de chat-gpt sur le travail universitaire et l'apprentissage
+la modification des pratiques d'apprentissage et de recherche
+la perception de la qualité du travail et l'efficacité de l'apprentissage
+les changements dans l'organisation du temps de travail et la gestion du stress
+l'impact de l'intelligence artificielle (ia) sur les pratiques estudiantines
+la perception de la fiabilité et de la qualité des réponses fournies par les ia
+l'influence des ia sur les stratégies d'apprentissage et de production de connaissances
+les compétences méta-cognitives et l'évaluation de l'ia
+le rapport au temps et au stress lié à l'utilisation de l'ia dans le contexte académique
+la comparaison entre différentes ia et leurs utilisations
+l'usage des intelligences artificielles (ia) dans le contexte académique
+la perception de l'ia et de sa légitimité dans l'apprentissage
+la transparence et la réglementation autour de l'usage de l'ia
+l'impact de l'âge et de l'expérience sur l'adoption de l'ia
+la frontière entre usage personnel et usage académique/professionnel de l'ia
+la créativité et l'originalité face à l'ia
+l'utilisation de l'intelligence artificielle (ia) dans le travail académique
+la question de la transparence et de la responsabilité
+le plagiat et l'éthique de l'utilisation de l'ia
+l'impact de l'ia sur l'apprentissage et la créativité
+la légitimité de l'utilisation de l'ia
+les tensions et les dilemmes liés à l'utilisation de l'ia
+perception et utilisation de l'ia
+impact sur les pratiques d'apprentissage
+évolution et réglementation de l'ia
+responsabilité individuelle et collective
+intégration de l'ia dans l'éducation
+l'usage des intelligences artificielles (ia) génératives dans le contexte universitaire
+la perception des ia génératives par les étudiants
+l'impact des ia génératives sur les pratiques d'apprentissage et de recherche
+les attitudes des enseignants envers l'utilisation des ia génératives
+les enjeux liés à l'utilisation des ia génératives
+l'usage des technologies numériques dans les études
+la modification des pratiques de travail et d'apprentissage
+la procrastination et la motivation
+la dépendance aux outils numériques
+la perception de l'aide apportée par les outils numériques
+utilisation des outils numériques dans les études
+impact sur le stress et la gestion du temps
+fiabilité et qualité des informations fournies par chatgpt
+stratégies de vérification et de validation
+interaction avec chatgpt et formulation des demandes
+influence sur la pensée critique et les approches d'apprentissage
+rôle d'accompagnement et avantage comparatif
+réflexion sur les limites et les risques de dépendance
+l'impact de chatgpt sur les pratiques académiques
+la dépendance aux outils numériques
+le stress et la gestion du temps
+la légitimité de l'usage de chatgpt dans le cadre universitaire
+les enjeux éthiques
+la tension entre gain de temps et apprentissage personnel
+l'évolution des pratiques d'apprentissage
+l'intégration des outils d'intelligence artificielle (ia) dans le système universitaire
+l'impact de chatgpt sur les méthodes d'apprentissage et d'évaluation
+la culture de l'effort et la valeur accordée aux travaux universitaires
+le rôle des sciences sociales dans l'utilisation de l'ia
+les enjeux éthiques liés à l'utilisation de l'ia dans l'enseignement supérieur
+les suggestions pour une intégration réussie de chatgpt dans le cadre académique
+représentations et usages des technologies
+impact des technologies sur les pratiques universitaires
+compétences et stratégies métacognitives
+perceptions de la compétence et de la réussite académique
+tensions et dilemmes éthiques
+évolution des pratiques d'apprentissage
+représentations et perceptions de l'intelligence artificielle (ia)
+usage de chatgpt dans le contexte universitaire
+impact de chatgpt sur le travail universitaire et l'apprentissage
+compétences et stratégies métacognitives
+perception de chatgpt vis-à-vis de la compétence et de la réussite académique
+tensions et dilemmes liés à l'utilisation de chatgpt
+éthique et implications sociétales de l'ia
+l'utilisation des intelligences artificielles (ia) génératives
+impact des ia sur les pratiques d'apprentissage et de travail universitaire
+perception et limites des ia
+questions éthiques liées à l'utilisation des ia
+confiance et méfiance envers les technologies
+évolution des pratiques informationnelles
+rapports entre humains et machines
+l'usage des intelligences artificielles (ia) dans le contexte académique
+l'impact des ia sur les méthodes de travail et d'apprentissage
+la perception de la fiabilité et de la qualité des réponses fournies par les ia
+les limites et les défis rencontrés lors de l'utilisation des ia
+l'influence des ia sur le niveau de stress et la préparation aux échanges académiques
+les compétences et stratégies métacognitives
+l'adaptation et l'évolution de l'usage des ia
+l'usage des intelligences artificielles (ia) dans les études universitaires
+la confiance et la vérification des informations fournies par l'ia
+la formulation des questions et des demandes à l'ia
+l'influence de l'ia sur les méthodes de travail et la pensée critique
+la perception de la légitimité de l'utilisation de l'ia dans les travaux universitaires
+la dépendance à l'ia
+l'impact de l'ia sur le stress lié aux rendus universitaires
+la perception et l'usage de l'intelligence artificielle (ia) dans le contexte académique
+l'éthique et la légitimité de l'utilisation de l'ia dans les travaux académiques
+la tension entre gain de temps et apprentissage personnel
+le rôle de l'ia dans la compréhension des tâches académiques et la clarification des attentes
+les dilemmes moraux liés à l'utilisation de l'ia
+l'impact futur de l'ia sur les pratiques d'apprentissage
+impact de l'intelligence artificielle (ia) sur l'éducation
+dépendance à l'ia et ses conséquences
+rapports entre technologie et société
+intégration de l'ia dans le cadre académique
+parcours scolaire et socialisation
+sociologie de l'éducation
+usage des technologies et intelligence artificielle
+sociologie du numérique
+pratiques culturelles et religieuses
+usage des outils numériques dans le travail académique
+impact de l'intelligence artificielle sur les méthodes de travail
+inégalités dans l'usage des outils numériques
+perception de la qualité et des limites de chatgpt
+stratégies d'utilisation et précautions
+évolution des attentes et des pratiques académiques
+avantage compétitif et perception de soi
+accès à l'information et inégalités
+expérience étudiante et intégration
+utilisation de chatgpt et dépendance
+éthique et légitimité de l'utilisation de chatgpt
+pratiques d'apprentissage et transformation
+impact environnemental et préoccupations écologiques
+compétences et savoir-faire
+inégalités numériques et sociales
+évolution des pratiques pédagogiques et évaluatives
+acquisition de compétences et impact sur l'apprentissage
+biais et limites de l'ia
+intégration de l'ia dans l'éducation
+risques et responsabilités liés à l'ia
+l'impact des intelligences artificielles sur les dynamiques du travail et les processus d'apprentissage
+la relation entre la technologie et l'utilisateur
+l'influence de chatgpt sur les pratiques d'étude et de travail
+les risques et les avantages de l'utilisation de chatgpt
+la sociologie de l'éducation et de l'apprentissage
+la perception et l'utilisation des intelligences artificielles dans la vie quotidienne
+l'impact des technologies de l'information et de la communication (tic) sur les pratiques estudiantines
+la relation entre l'utilisation de chatgpt et la motivation ou la paresse des étudiants
+le rôle de chatgpt comme soutien ou comme substitut au travail personnel
+la question de la fiabilité et de la qualité des informations fournies par chatgpt
+l'adaptation des stratégies d'apprentissage en fonction de l'utilisation de chatgpt
+la dépendance à chatgpt et son impact sur la réflexion personnelle
+la légitimité de l'utilisation de chatgpt dans les travaux universitaires
+l'équité et la justice dans l'utilisation des outils comme chatgpt dans le contexte académique
+l'usage de l'intelligence artificielle (ia) dans l'apprentissage
+la légitimité de l'usage de l'ia dans l'apprentissage
+l'impact de l'ia sur les pratiques d'apprentissage
+les dilemmes moraux liés à l'usage de l'ia
+l'évolution des pratiques d'apprentissage avec l'ia
+le rapport à l'autorité intellectuelle
+analyse des thématiques sociologiques abordées
+impact de l'ia sur les pratiques éducatives
+éducation au numérique et utilisation responsable de l'ia
+intégration de l'ia dans les pratiques pédagogiques
+formation des enseignants et adaptation des évaluations
+parallèle avec d'autres technologies éducatives
+l'usage des technologies numériques dans le contexte universitaire
+la relation entre les étudiants et la technologie
+l'impact de chatgpt sur les pratiques d'étude et de travail
+la question de la dépendance aux outils numériques
+les enjeux éthiques liés à l'utilisation de chatgpt
+la perception de l'intelligence artificielle et de son rôle dans l'apprentissage
+analyse de l'entretien sociologique
+thématiques sociologiques abordées
+l'impact de la technologie sur l'apprentissage
+les dilemmes éthiques liés à l'utilisation de chatgpt
+la perception de l'acceptabilité de l'utilisation de chatgpt
+l'évolution des pratiques d'apprentissage avec l'intégration de chatgpt
+l'intégration de chatgpt dans l'enseignement
+conclusion
+usage de l'ia dans les études universitaires
+interaction avec la technologie
+impact de l'ia sur les pratiques académiques
+compétences et connaissances
+évolution de l'utilisation de l'ia
+limitations et stratégies d'utilisation
+réflexion sur l'intégration de l'ia dans le quotidien
+utilisation de l'ia dans les études universitaires
+impact sur les pratiques d'apprentissage et de recherche
+limites et critiques de l'utilisation de l'ia
+stratégies pour une utilisation efficace de l'ia
+réflexion sur la dépendance à l'égard de la technologie
+conscience des règles universitaires concernant l'utilisation de l'ia
+personnalisation et adaptation de l'ia
+l'usage des intelligences artificielles (ia) dans la vie quotidienne et académique
+l'impact des ia sur l'efficacité et la productivité
+la relation entre l'humain et la machine
+la créativité et la production de contenu avec l'aide des ia
+les limites et les biais des ia
+l'adaptation et l'apprentissage liés à l'usage des nouvelles technologies
+l'usage des technologies d'intelligence artificielle dans la vie quotidienne et académique
+la relation entre l'humain et la machine
+la confiance et la vérification de l'information
+l'apprentissage et l'adaptation
+les limites et les potentialités de l'intelligence artificielle
+la critique et la réflexion sur l'usage de l'ia
+l'usage des intelligences artificielles (ia) dans le monde académique
+la perception de l'ia comme un outil
+l'avantage comparatif dans l'utilisation de l'ia
+l'éthique et la réglementation de l'ia
+la dépendance à l'égard de l'ia
+les politiques universitaires concernant l'ia
+la perception de l'impact de l'ia sur le travail académique et professionnel
+utilisation des outils numériques dans le contexte académique
+éthique et légitimité de l'utilisation des ia
+impact sur les pratiques d'apprentissage
+rapports entre étudiants et enseignants
+morale et éthique personnelles
+évolution des pratiques universitaires et scolaires
+rôle de la technologie dans la société
+l'usage des intelligences artificielles (ia) dans l'éducation et la recherche
+la régulation et la responsabilité concernant l'usage de l'ia
+le plagiat et la citation des sources dans l'ère numérique
+l'éducation à l'usage critique des technologies
+la spécialisation et la division du travail dans la société
+l'évolution des pratiques académiques et la nécessité d'adapter les normes
+la perception de l'ia et de ses risques
+perception et définition de l'intelligence artificielle
+usages de chatgpt
+impact de chatgpt sur les pratiques estudiantines
+relation entre la technologie et les pratiques académiques
+formation et parcours académique
+compétences numériques et littératie
+stress et dépendance aux outils numériques
+éthique et responsabilité dans l'usage de l'intelligence artificielle
+usage et perception de l'outil chatgpt
+impact sur les pratiques de travail et d'apprentissage
+rapports au temps et à l'organisation
+limites et défis rencontrés
+stratégies de vérification et de validation
+évolution des pratiques et des compétences
+place de chatgpt dans les pratiques d'étude et de recherche
+analyse des thématiques sociologiques
+impact de la technologie sur les pratiques académiques
+éthique et légitimité de l'utilisation de chatgpt
+perception de l'outil par les étudiants et les enseignants
+tensions et dilemmes liés à l'utilisation de chatgpt
+impact sur les pratiques d'apprentissage et l'avenir
+intégration de chatgpt dans le cadre académique
+l'intégration des technologies de l'information et de la communication (tic) dans l'enseignement
+la formation des enseignants
+les relations entre les enseignants et les élèves
+la diversité des élèves et les défis de l'enseignement
+les conditions de travail et le stress des étudiants en formation
+la critique de l'institution de formation
+la formation des enseignants
+l'écart entre théorie et pratique
+la préparation des cours et la charge de travail
+l'adaptabilité dans l'enseignement
+l'intégration de nouvelles approches pédagogiques
+l'utilisation des technologies de l'information et de la communication (tic) dans l'enseignement
+la recherche en éducation
+l'utilisation des intelligences artificielles (ia) dans le contexte éducatif
+la relation entre l'humain et la technologie
+la construction de la connaissance et la vérification de l'information
+les limites et les potentialités de l'ia dans l'éducation
+la réflexivité et la conscience de l'utilisateur
+l'évolution des pratiques pédagogiques
+l'usage des outils numériques dans l'enseignement
+la relation entre l'enseignant et la technologie
+l'impact des outils numériques sur la qualité de l'information
+la responsabilité des enseignants dans l'usage critique des outils numériques
+les enjeux éthiques liés à l'usage de l'intelligence artificielle (ia)
+la construction de la connaissance et de l'expertise professionnelle
+l'impact des technologies de l'information et de la communication (tic) sur les pratiques professionnelles
+la relation entre les enseignants et les outils numériques
+la question de l'autonomie et de la responsabilité professionnelle
+les limites de la technologie dans l'enseignement
+la créativité et la planification dans l'enseignement
+la confiance et la validation dans l'utilisation des outils numériques
+l'impact des technologies de l'information et de la communication (tic) sur le travail enseignant
+la relation entre l'humain et la machine dans le contexte éducatif
+les enjeux de l'autonomie et de la créativité dans le travail enseignant
+la question de la propriété intellectuelle et de la paternité d'un travail
+les considérations éthiques liées à l'utilisation de l'ia dans l'éducation
+la frontière entre l'assistance et la substitution dans l'utilisation de l'ia
+usage et perception des intelligences artificielles (ia)
+autonomie et responsabilité dans le travail
+limites de l'interaction avec les ia
+dangers potentiels des ia dans les relations personnelles
+éthique de l'utilisation des ia
+la perception de l'ia et son utilisation
+la créativité et l'ia
+l'aide et la confirmation
+l'apprentissage et l'amélioration
+les limites de l'ia
+la relation entre l'humain et la machine
+utilisation et perception de l'ia dans le milieu académique
+limites et dangers de l'ia
+conscience critique et vérification
+normes et règles dans le milieu académique
+différences dans l'utilisation de l'ia selon les contextes académiques
+impact de l'ia sur la créativité et l'illustration
+réflexion critique sur les implications de l'ia
+l'utilisation des intelligences artificielles (ia) dans l'enseignement
+la perception et les attitudes à l'égard des ia
+l'éthique de l'utilisation des ia dans l'évaluation des élèves
+la transparence et la communication autour de l'utilisation des ia
+l'importance de l'esprit critique dans l'éducation
+l'impact des ia sur la société et l'éducation
+perception et utilisation de l'ia
+impact de l'ia sur l'éducation
+évolution de l'ia et ses implications
+risques et dérives de l'ia
+acceptation sociale de l'ia
+rôle de l'éducation dans l'encadrement de l'ia
+pessimisme face à l'avenir de l'ia
+l'impact des intelligences artificielles (ia) sur la société
+la fiabilité de l'information
+la désinformation et les risques associés aux ia
+la relation entre l'homme et la technologie
+l'importance de la pensée critique et de l'esprit d'analyse
+les bénéfices et les limites de l'utilisation des ia dans la recherche d'information et la prise de décision
+utilisation des technologies numériques dans le cadre universitaire
+perceptions et représentations des intelligences artificielles
+impact des technologies numériques sur les pratiques étudiantes
+rapports entre les étudiants et les technologies numériques
+questions éthiques et de confidentialité
+évolution des compétences et des pratiques étudiantes
+rapports entre les étudiants et les enseignants
+utilisation et interaction avec chat gpt
+stratégies d'utilisation et modification des réponses
+évaluation de l'utilité et de la légitimité de chat gpt
+avantages et dépendance
+impact sur l'apprentissage et le stress
+perception de l'utilisation de chat gpt par les enseignants et l'université
+enjeux éthiques et citation des sources
+adaptation de l'université et réglementation
+tensions entre gain de temps et apprentissage
+évolution future de chat gpt et impact sur les pratiques d'apprentissage
+dilemmes moraux et utilisation de chat gpt
+l'usage des intelligences artificielles (ia) dans le contexte académique
+la perception des ia et leur intégration dans l'université
+le contrôle et la dépendance aux ia
+la diversité des outils d'ia et leurs utilisations spécifiques
+les enjeux géopolitiques liés à l'utilisation des ia
+impact de l'intelligence artificielle (ia) sur les pratiques universitaires
+intégration de chatgpt dans les pratiques quotidiennes
+perception et anthropomorphisation de chatgpt
+modification des habitudes de recherche et de travail
+limites et précautions dans l'usage de chatgpt
+évolution de la relation au savoir et à l'apprentissage
+l'impact des technologies de l'information et de la communication (tic) sur les pratiques académiques
+la relation entre l'humain et l'intelligence artificielle (ia)
+la question de l'appropriation et de l'identité dans le travail académique
+l'apprentissage et le développement des compétences
+la gestion du temps et l'organisation du travail académique
+la qualité et l'originalité du travail académique face à l'utilisation des outils numériques
+le stress et la pression académique
+l'impact de l'ia sur les pratiques académiques
+les limites et les biais de l'ia
+la dépendance à l'ia et ses conséquences
+la légitimité de l'utilisation de l'ia dans le contexte académique
+les enjeux éthiques liés à l'utilisation de l'ia
+l'impact de l'ia sur les pratiques quotidiennes
+la question de la transparence et de la responsabilité
+l'impact des intelligences artificielles (ia) sur l'éducation
+la question de l'acceptabilité et de la légitimité
+l'apprentissage et la dépendance aux outils d'ia
+les implications sociales et éthiques de l'ia
+la confiance dans la technologie
+la nécessité d'une sensibilisation et d'une éducation aux enjeux de l'ia
+l'impact des intelligences artificielles (ia) sur les pratiques d'études
+la confidentialité et l'anonymisation des données
+l'éducation et la sensibilisation aux risques liés à l'ia
+l'évolution des pratiques informationnelles et la question de la véracité
+les usages différenciés de l'ia et leur impact sur la réflexion et le travail intellectuel
+usage et perception des technologies numériques
+impact de la technologie sur les pratiques universitaires
+confiance et fiabilité dans les technologies numériques
+formation et acquisition de compétences numériques
+rapports aux technologies et culture numérique
+évolution des pratiques et des représentations
+l'usage des outils numériques dans les études
+la relation entre les étudiants et les outils d'intelligence artificielle
+l'impact des outils d'intelligence artificielle sur les pratiques d'apprentissage
+les questions éthiques liées à l'utilisation des outils d'intelligence artificielle dans les études
+la relation entre les étudiants et les enseignants dans un contexte d'utilisation des outils d'intelligence artificielle
+l'évolution des compétences et des pratiques dans un contexte d'utilisation des outils d'intelligence artificielle
+le rapport au temps et à la productivité
+l'usage et l'intégration de la technologie dans les pratiques académiques
+la perception de la fiabilité et de la qualité des réponses fournies par chatgpt
+les stratégies d'utilisation et de vérification des informations fournies par chatgpt
+l'impact de chatgpt sur le stress et la réussite académique
+la dépendance à chatgpt et son rôle d'accompagnement
+les implications sociales et les considérations éthiques de l'utilisation de chatgpt
+la dépendance aux outils numériques
+l'éthique de l'utilisation des outils numériques dans le cadre académique
+la normalisation de l'utilisation des outils numériques
+l'impact des outils numériques sur les pratiques d'apprentissage
+la responsabilité individuelle et la responsabilité institutionnelle
+les clivages disciplinaires
+l'impact écologique des outils numériques
+l'usage des outils numériques et de l'intelligence artificielle dans les pratiques quotidiennes et scolaires
+la perception de l'usage des technologies dans l'apprentissage et l'éducation
+les normes et les règles entourant l'usage des technologies dans le contexte scolaire
+la fracture numérique ou la disparité dans l'accès et l'usage des technologies
+la dynamique intergénérationnelle autour de l'usage des technologies
+représentations et perceptions de chatgpt et de l'intelligence artificielle
+usage de chatgpt dans les études et dans la vie quotidienne
+impact sur les méthodes d'apprentissage et de travail
+compétences développées ou non avec l'usage de chatgpt
+auto-évaluation et effets sur le travail en groupe
+conscience de l'impact environnemental des technologies numériques
+intégration de la technologie dans le cursus académique et les pratiques disciplinaires
+l'impact des technologies de l'information sur le travail et l'apprentissage
+la relation entre l'individu et la technologie
+la modification des pratiques de travail et d'apprentissage
+la gestion du temps et de la curiosité
+la confiance et la fiabilité dans les sources d'information
+l'évolution des compétences et des pratiques
+l'impact sur le stress et la procrastination
+impact des technologies sur les pratiques professionnelles et universitaires
+rapports aux outils numériques et dépendance
+éthique et légitimité de l'utilisation des intelligences artificielles dans le contexte académique
+perception et réactions des enseignants face à l'utilisation de chatgpt
+intégration des intelligences artificielles dans la société et évolution des pratiques
+questions éthiques liées à la propriété intellectuelle et à la citation des sources
+usage et perception de la technologie dans l'apprentissage
+éthique et plagiat
+impact sur les pratiques pédagogiques et l'évaluation
+changement dans la relation à la connaissance
+problématiques de confidentialité et de profilage
+adaptation et évolution des compétences
+intégration de l'intelligence artificielle (ia) dans le cadre académique
+éthique et responsabilité dans l'utilisation de l'ia
+adaptation et spécification des outils d'ia pour les besoins académiques
+évolution des pratiques de recherche et d'information avec l'ia
+perception et acceptation de l'ia par les utilisateurs
+usages et pratiques des intelligences artificielles (ia) et de chatgpt
+perceptions et représentations des ia et de chatgpt
+impact des ia sur les pratiques universitaires
+relation aux technologies
+encadrement institutionnel de l'usage des ia
+création de contenu et propriété intellectuelle
+dépendance et autonomie dans les études
+usage de chatgpt dans les études
+impact sur la qualité du travail et la compréhension des sujets
+gain de temps et organisation du travail
+changement dans les pratiques d'étude et de recherche
+stress et pression liés aux rendus académiques
+limites et frustrations liées à l'usage de chatgpt
+utilisation des outils numériques dans le cadre universitaire
+fiabilité et qualité des informations fournies par les outils numériques
+impact de l'intelligence artificielle sur les pratiques estudiantines
+dépendance aux outils numériques
+égalité et avantage compétitif
+compétences et formation critique
+changement dans les méthodes de travail et d'apprentissage
+la dépendance aux outils numériques
+l'impact des technologies sur les pratiques de travail et d'apprentissage
+la légitimité de l'utilisation des outils d'intelligence artificielle dans le contexte académique
+les enjeux éthiques liés à l'utilisation des intelligences artificielles
+la perception des enseignants et des étudiants sur l'utilisation des intelligences artificielles
+l'équilibre entre le gain procuré par les outils d'intelligence artificielle et l'apprentissage personnel
+les limites et les contextes d'utilisation des intelligences artificielles
+thématiques sociologiques abordées dans l'entretien
+l'impact des technologies émergentes sur la société
+la relation entre les individus et la technologie
+les enjeux éthiques liés à l'utilisation des technologies
+l'évolution des pratiques d'apprentissage et de travail
+les inégalités sociales et l'accès aux technologies
+conclusion
+parcours et choix universitaires
+expérience de tutorat
+travail de mémoire et recherche
+perception et utilisation de chat gpt et de l'ia
+influence du contexte familial et social
+intégration des technologies numériques dans les études et le quotidien
+perception et utilisation de l'ia
+confiance et méfiance envers les technologies numériques
+usage des technologies numériques dans les études et la vie quotidienne
+réglementation et régulation des technologies numériques
+impact des technologies numériques sur la société
+différences d'usage selon les disciplines
+rapports entre humains et technologies
+l'usage des intelligences artificielles (ia) dans l'apprentissage et la recherche
+la relation entre l'étudiant et les outils numériques
+les limites et les potentialités des ia dans l'éducation
+la sociologie de l'éducation et les stratégies d'apprentissage
+les rapports entre les étudiants et les enseignants
+la sociolinguistique et l'usage des langues dans les interactions avec les ia
+interaction avec la technologie
+pratiques académiques et usage de l'ia
+fiabilité et confiance dans l'information
+gestion du temps et productivité
+impact sur la réflexion et la pensée critique
+stress et confort dans l'apprentissage
+évaluation et régulation de l'ia dans les pratiques éducatives
+usage des technologies de l'information et de la communication (tic) dans le cadre académique
+intégration de l'intelligence artificielle dans les pratiques d'apprentissage
+perceptions et attitudes à l'égard de l'utilisation de l'intelligence artificielle dans l'enseignement supérieur
+questions éthiques liées à l'utilisation de l'intelligence artificielle
+impact de l'intelligence artificielle sur les pratiques de travail et la créativité
+dépendance aux outils numériques et stratégies alternatives
+normes et conventions dans la citation et la référence aux sources
+l'utilisation de chat gpt et de l'ia dans les études
+la question de la propriété intellectuelle et de la citation
+l'impact environnemental de l'ia
+la perception de l'ia et de son utilisation par les étudiants
+la relation entre les étudiants et les enseignants dans le contexte de l'ia
+les dilemmes moraux et éthiques liés à l'utilisation de l'ia
+la réglementation et la gouvernance de l'ia
+l'impact de l'ia sur les pratiques d'apprentissage et l'avenir de l'éducation
+la créativité et les limites de l'ia
+la course à l'innovation et la compétition entre les pays
+l'impact de l'ia sur les relations humaines
+l'individualisme et la perte de l'interaction humaine
+les risques environnementaux liés à l'ia
+l'intégration de l'ia dans le cadre académique
+la nécessité d'une réflexion éthique et de réglementation
+thématiques sociologiques abordées dans l'entretien :
+impact des intelligences artificielles (ia) sur le travail et l'apprentissage des étudiants
+perception et utilisation de chatgpt par les étudiants
+relation entre les étudiants et la technologie
+tabou et légitimité autour de l'utilisation de chatgpt dans les milieux académiques
+pratiques et stratégies d'utilisation de chatgpt pour les tâches académiques
+réflexion sur l'intégrité académique et l'utilisation des ia
+utilisation de chatgpt comme outil d'assistance à la rédaction
+impact de chatgpt sur les pratiques de travail académique
+dépendance et autonomie dans l'utilisation de chatgpt
+perception de chatgpt comme un "confort" dans le processus d'écriture
+intégration de chatgpt dans différentes étapes de la rédaction
+réflexion sur l'originalité et la créativité dans un contexte d'assistance numérique
+utilisation des outils numériques dans le travail universitaire
+impact sur la gestion du temps et la productivité
+confiance et fiabilité dans les outils numériques
+stratégies de vérification et d'évaluation de l'information
+rapports entre technologie et stress dans le travail universitaire
+pratiques de travail et organisation
+représentations et perceptions des outils d'intelligence artificielle
+stratégies d'utilisation de chatgpt
+interaction avec chatgpt
+évaluation critique de chatgpt
+utilité et avantages de chatgpt dans le travail universitaire
+dépendance à chatgpt
+impact sur la manière de travailler
+comparaison avec d'autres formes d'assistance
+adaptation de chatgpt aux besoins individuels
+l'usage des outils numériques dans le milieu académique
+la légitimité de l'usage de chatgpt
+la question de la propriété intellectuelle et du plagiat
+les pratiques de citation et de référencement
+l'impact sur l'apprentissage et le développement des compétences
+la relation au temps et à la productivité
+les normes et les règles dans la communauté académique
+l'acceptation et l'utilisation de chatgpt dans le milieu académique
+évolution de la perception de chatgpt
+impact sur les pratiques d'apprentissage
+le rôle des enseignants et l'intégration de chatgpt dans l'enseignement
+la question du tabou et de la diabolisation de chatgpt
+la nécessité d'un dialogue et d'une clarification
+différences disciplinaires dans l'adoption et l'acceptation de chatgpt

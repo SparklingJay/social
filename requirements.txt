@@ -2,3 +2,4 @@ python-dotenv
 requests
 groq
 PyMuPDF
+json
